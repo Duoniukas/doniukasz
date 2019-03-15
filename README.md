@@ -1,6 +1,6 @@
 # doniukasz
 
-##Siandienos bulviu skonis
+## Siandienos bulviu skonis
 
 ___
 bulves buvo skanios
